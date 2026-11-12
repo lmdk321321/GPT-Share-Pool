@@ -6,7 +6,7 @@
 
 <p align="center"><strong>一个属于开发者的GPT共享号池</strong></p>
 
-<p align="center"><strong><a href="https://www.share-codex.net">www.share-codex.net</a></strong></p>
+<p align="center"><strong><a href="https://www.share-codex.net" style="color:blue;font-size:26px;">www.share-codex.net</a></strong></p>
 
 Share-Codex 
 旨在让国内开发者更轻松使用 GPT 模型，致力于解决官方订阅账号的降智与封号问题。
