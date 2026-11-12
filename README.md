@@ -5,7 +5,7 @@
 <h1 align="center">Share-Codex</h1>
 
 <p align="center"><strong>一个属于开发者的GPT共享号池</strong></p>
-
+<p align="center"><strong></strong>项目相关链接</p>
 <p align="center"><strong><a href="https://www.share-codex.net" style="color:blue;font-size:42px;">www.share-codex.net</a></strong></p>
 
 Share-Codex 
