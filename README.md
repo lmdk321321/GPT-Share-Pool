@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo (2).png" width="80" alt="Share-Codex" />
+  <img src="logo (2).png" width="800" alt="Share-Codex" />
 </p>
 
 <h1 align="center">Share-Codex</h1>
