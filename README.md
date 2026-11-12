@@ -4,19 +4,10 @@
 
 <h1 align="center">Share-Codex</h1>
 
-<p align="center">
-  <strong style="font-size: 32px !important;">一个属于开发者的GPT共享号池</strong>
-</p>
-<p align="center">
-  <strong style="font-size: 32px !important;">项目相关链接</strong>
-</p>
-<p align="center">
-  <strong>
-    <a href="https://www.share-codex.net" style="color:#0000EE !important; font-size:42px !important; text-decoration: underline !important;">
-      www.share-codex.net
-    </a>
-  </strong>
-</p>
+<h2 align="center">一个属于开发者的GPT共享号池</h2>
+
+<p align="center"><strong style="font-size:32px;">项目相关链接</strong></p>
+<h3 align="center"><strong><a href="https://www.share-codex.net" style="color:#0000EE; font-size:42px; text-decoration:underline;">www.share-codex.net</a></strong></h3>
 
 Share-Codex 
 旨在让国内开发者更轻松使用 GPT 模型，致力于解决官方订阅账号的降智与封号问题。
